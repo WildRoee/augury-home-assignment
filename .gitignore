@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Robot Framework output files
+report.html
+log.html
+output.xml
