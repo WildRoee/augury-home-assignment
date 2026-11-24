@@ -1,6 +1,6 @@
 # Augury Home Assignment – IoT Validation & Signal Processing
 
-End-to-end automated validation suite for a simulated Augury IoT system (Nodes, Endpoints, OTA firmware updates, and DFU gating rules) implemented in Python and Robot Framework, followed by vibration signal processing analysis.
+End-to-end automated validation suite for a simulated Augury IoT system (Nodes, Endpoints, OTA firmware updates, and DFU gating rules) implemented in Python and Robot Framework
 
 ---
 
